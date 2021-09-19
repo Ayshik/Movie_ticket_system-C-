@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\bin\Debug\Movie_ticket_system.exe.config
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\bin\Debug\Movie_ticket_system.exe
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\bin\Debug\Movie_ticket_system.pdb
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.Form1.resources
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.Properties.Resources.resources
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.exe
+C:\Users\hp\source\repos\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.pdb
+C:\Users\ASUS\Desktop\C#\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.exe
+C:\Users\ASUS\Desktop\C#\Movie_ticket_system\Movie_ticket_system\obj\Debug\Movie_ticket_system.pdb
